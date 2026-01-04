@@ -20,8 +20,7 @@ const default_configuration = {
   },
   additionalClocks: [
     {
-      label: "UA",
-      timezone: "Europe/Kyiv",
+      timezone: "Asia/Jakarta",
       format: "h:i",
       icon_color: palette.peach,
     },

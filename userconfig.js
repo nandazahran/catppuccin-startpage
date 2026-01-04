@@ -14,12 +14,12 @@ const default_configuration = {
     scale: "C",
   },
   clock: {
-    timezone: "Asia/Jakarta",
     format: "k:i p",
     icon_color: palette.maroon,
   },
   additionalClocks: [
     {
+      label: "WIB",
       timezone: "Asia/Jakarta",
       format: "h:i",
       icon_color: palette.peach,

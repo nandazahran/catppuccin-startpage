@@ -19,7 +19,7 @@ const default_configuration = {
   },
   additionalClocks: [
     {
-      label: "WIB",
+      label: "ID",
       timezone: "Asia/Jakarta",
       format: "h:i",
       icon_color: palette.peach,

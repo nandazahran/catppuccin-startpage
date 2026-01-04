@@ -14,6 +14,7 @@ const default_configuration = {
     scale: "C",
   },
   clock: {
+    timezone: "Asia/Jakarta",
     format: "k:i p",
     icon_color: palette.maroon,
   },
@@ -39,7 +40,7 @@ const default_configuration = {
   disabled: [],
   localIcons: true,
   localFonts: true,
-  fastlink: "https://www.perplexity.ai",
+  fastlink: "https://gemini.google.com/app",
   openLastVisitedTab: true,
   tabs: [
     {

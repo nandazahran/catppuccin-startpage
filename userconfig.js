@@ -13,13 +13,9 @@ const default_configuration = {
     location: "Bogor",
     scale: "C",
   },
-  clock: {
-    timezone: "Asia/Jakarta",
-    format: "k:i p",
-    icon_color: palette.maroon,
-  },
   additionalClocks: [
     {
+      label : " ",
       timezone: "Asia/Jakarta",
       format: "h:i",
       icon_color: palette.peach,

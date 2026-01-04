@@ -67,8 +67,8 @@ const default_configuration = {
           name: "workspace",
           links: [
             {
-              name: "gmail",
-              url: "https://mail.google.com",
+              name: "tuta mail",
+              url: "https://app.tuta.com/mail/",
               icon: "brand-gmail",
               icon_color: palette.green,
             },
@@ -230,20 +230,20 @@ const default_configuration = {
           name: "social media",
           links: [
             {
-              name: "telegram",
-              url: "https://web.telegram.org",
-              icon: "brand-telegram",
+              name: "whatsapp",
+              url: "https://web.whatsapp.com/",
+              icon: "brand-whatsapp",
               icon_color: palette.green,
             },
             {
-              name: "facebook",
-              url: "https://www.facebook.com",
-              icon: "brand-facebook",
+              name: "instagram",
+              url: "https://www.instagram.com/",
+              icon: "brand-instagram",
               icon_color: palette.peach,
             },
             {
               name: "reddit",
-              url: "https://www.reddit.com/r/unixporn",
+              url: "https://www.reddit.com",
               icon: "brand-reddit",
               icon_color: palette.red,
             },
@@ -253,8 +253,8 @@ const default_configuration = {
           name: "gaming",
           links: [
             {
-              name: "infiniteBacklog",
-              url: "https://infinitebacklog.net",
+              name: "protondb",
+              url: "https://www.protondb.com/",
               icon: "device-gamepad",
               icon_color: palette.green,
             },
@@ -271,8 +271,8 @@ const default_configuration = {
               icon_color: palette.red,
             },
             {
-              name: "nintendo",
-              url: "https://store.nintendo.co.uk",
+              name: "anti-cheat",
+              url: "https://areweanticheatyet.com/",
               icon: "device-nintendo",
               icon_color: palette.blue,
             },
